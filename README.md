@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Wellcome to my GitHub profile 
 
-<!--
-**Adarsh0047/Adarsh0047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on Machine Learning and Data Science related projects
 
-Here are some ideas to get you started:
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh047/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/@kailas_sudheer](https://twitter.com/Adarsh81838891)) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gmail - adarshshanmugam2002@gmail.com
+
+## 📊 GitHub Stats:
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adarsh0047&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+
