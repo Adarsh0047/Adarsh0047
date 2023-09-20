@@ -18,3 +18,5 @@ Gmail - adarshshanmugam2002@gmail.com
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adarsh0047&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+
+[![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsh0047&theme=react-dark)](https://github.com/Adarsh0047/github-readme-activity-graph)
