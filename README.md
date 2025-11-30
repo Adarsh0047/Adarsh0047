@@ -6,7 +6,7 @@ I’m currently working on Machine Learning and Data Science related projects
 
 
 ## 🧑‍💻 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh0047&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh0047&layout=compact&show_icons=true&theme=dark)
 
 
 ## 🌐 Connect with me:
